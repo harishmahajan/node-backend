@@ -26,3 +26,5 @@ $ npm start
 ```sh
 https://www.getpostman.com/collections/836cdc7aee7ef96f18e3
 ```
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/HarishMahajan)
